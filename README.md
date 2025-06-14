@@ -1,0 +1,3 @@
+Introduction:
+
+In this project, we address the task of detecting metastatic cancer in small image patches derived from larger digital pathology scans, using a modified version of the PatchCamelyon (PCam) benchmark dataset provided on Kaggle. The PCam dataset transforms a clinically significant problem—metastasis detection—into a binary image classification task, making it accessible and computationally efficient while retaining medical relevance. Its well-balanced complexity and tractability allow models to be trained quickly on standard hardware, making it an excellent benchmark for exploring core machine learning concepts such as model performance, regularization, and interpretability.
